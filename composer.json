@@ -24,7 +24,7 @@
     "aaemnnosttv/wp-sqlite-db": "^1.2",
     "guzzlehttp/guzzle": "^7.4",
     "pestphp/pest": "^1.2",
-    "symfony/filesystem": "^5.4",
+    "symfony/filesystem": "^5.4|^6.0",
     "yoast/phpunit-polyfills": "^1.0",
     "yoast/wp-test-utils": "^1.0"
   },
